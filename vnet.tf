@@ -1,5 +1,5 @@
 resource "azurerm_resource_group" "test" {
-  name     = "myresourcegroup"
+  name     = "fredsalerno-workshop"
   location = "East US"
 }
 
